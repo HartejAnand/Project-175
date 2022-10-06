@@ -1,0 +1,14 @@
+{    
+  "0": {
+    "name": "road",
+    "barcode_value": 2
+  },
+  
+  "1": {
+    "name": "car",
+    "barcode_value": 5,
+    "model_url": "https://raw.githubusercontent.com/whitehatjr/three-d-models/main/car_model/Convertible.gltf"
+  }
+  
+}
+
